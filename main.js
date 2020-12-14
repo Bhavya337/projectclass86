@@ -78,7 +78,7 @@ if (key_presseed =="39" )
 
 if (key_presseed =="70" )
 {
-  new_image("thor_face_png");
+  new_image("thor_face.png");
   console.log("thor face ");
 }
 
@@ -88,7 +88,7 @@ if (key_presseed =="66" )
   console.log("spider man body  ");
 }
 
-if (key_presseed =="77" )
+if (key_presseed =="76" )
 {
   new_image("ironman_legs.png");
   console.log("iron man legs");
